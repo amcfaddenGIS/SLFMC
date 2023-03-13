@@ -1,4 +1,4 @@
-# SLFMC
+# Seasonal Live Fuel Moisture Content
 **Seasonal Live Fuel Moisture Content (SLFMC)**: A python package for analyzing seasonal fluctuations of live fuel moisture content through Landsat imagery
 
 ## **Background**
