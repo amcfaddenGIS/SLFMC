@@ -1,11 +1,10 @@
 # Indices used for calculating LFC through remote sensed image
-from osgeo import ogr
-from osgeo import gdal
 import tempfile
 import os
 import shutil
 import numpy as np
 import rasterio
+from rasterio import mask
 import fiona
 # Function creates an output raster, used for numerous functions
 # Change this function to Rasterio
