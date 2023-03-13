@@ -40,7 +40,7 @@ Tracking of SLFMC for fire prone areas may provide a more thorough insight into 
 
 ## **Updates in the Future**
 
-Future updates will allow users to plot separate SLFMC graphs for specified time frames. Restricting time frames may allow users to analyze shifts in SLFMC for numerous years. In addition, users may be provided the option to compare differing extents at the same type (i.e. different extents with different fuel loads or ages). 
+Future updates will allow users to plot separate SLFMC graphs for specified time frames. Restricting time frames may allow users to analyze shifts in SLFMC for numerous years. In addition, users may be provided the option to compare differing extents at the same type (i.e. different extents with different fuel loads or ages). Animations tracking changes in NDMI/NDWI will be provided in the near future
 
 
 
